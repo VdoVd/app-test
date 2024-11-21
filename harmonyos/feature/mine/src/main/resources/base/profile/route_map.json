@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "login_page",
+      "pageSourceFile": "src/main/ets/_generated/ZRLoginComponent.ets",
+      "buildFunction": "mineLoginComponentBuilder",
+      "data": {
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "register_page",
+      "pageSourceFile": "src/main/ets/_generated/ZRRegisterComponent.ets",
+      "buildFunction": "mineRegisterComponentBuilder",
+      "data": {
+        "needLogin": "false"
+      }
+    }
+  ]
+}

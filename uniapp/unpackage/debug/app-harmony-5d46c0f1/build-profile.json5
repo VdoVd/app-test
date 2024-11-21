@@ -1,0 +1,68 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\liuhaobin\\.ohos\\config\\default_harmonyos_BrtEUi36Tz5ATCJnzN7MYmWC87zT-rnMbM0NZB_m2dI=.cer",
+          "storePassword": "0000001B1232B940C371A9F9EE432E3A3E04A6C8B677CBAA10560A0A55AADF2CCEE7F5C28B9379CAB6C6AE",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BC62E52BB310322287FF11245EE67AC1168C9C53EF8CE51F0A0018403326FD5B05E162D93565D02",
+          "profile": "C:\\Users\\liuhaobin\\.ohos\\config\\default_harmonyos_BrtEUi36Tz5ATCJnzN7MYmWC87zT-rnMbM0NZB_m2dI=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\liuhaobin\\.ohos\\config\\default_harmonyos_BrtEUi36Tz5ATCJnzN7MYmWC87zT-rnMbM0NZB_m2dI=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      },
+      {
+        "name": "release",
+        "signingConfig": "release",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "release"
+          ]
+        }
+      ]
+    }
+  ]
+}

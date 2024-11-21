@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "video_page",
+      "pageSourceFile": "src/main/ets/_generated/ZRVideoPage.ets",
+      "buildFunction": "homeIndexBuilder",
+      "data": {
+        "needLogin": "false"
+      }
+    }
+  ]
+}
