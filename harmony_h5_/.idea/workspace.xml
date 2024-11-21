@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f17b5402-6f2c-4004-a4e4-845fd0a8518a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/assets/index-l9CJHO8v.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-profile.json5" beforeDir="false" afterPath="$PROJECT_DIR$/build-profile.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/gg.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/t.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/assets/AboutView-C6Dx7pxG.css" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/assets/AboutView-C6Dx7pxG.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/assets/AboutView-CcpMJ4pO.js" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/assets/AboutView-CcpMJ4pO.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/assets/index-C7D1N4jt.css" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/assets/index-C7D1N4jt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/assets/index-DYYsCIEL.js" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/assets/index-DYYsCIEL.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/avatar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/collect.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/dialog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/find.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/love.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/mine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/nav.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/notice.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/plus-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/assets/up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/common/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/LoginView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/chat/chatComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/chat/dialogComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/stores/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/views/ChatPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/rawfile/vue3/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FilterPreference">
+    <option name="filterName" value="User logs of selected app" />
+    <option name="processName" value="com.example.myapplication" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HiLogStateProjectLevelPreference">
+    <panelStates>
+      <hilogPanelState>
+        <option name="filterName" value="User logs of selected app" />
+        <option name="logPanelType" value="ONLINE" />
+        <option name="processName" value="com.example.myapplication" />
+      </hilogPanelState>
+    </panelStates>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nCy4ugT9zSbG269nYlxQZBrskG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;127.0.0.1:5555&quot;: &quot;5375414381730848897879&quot;,
+    &quot;127.0.0.1:5559&quot;: &quot;5377385931728492916680&quot;,
+    &quot;2NP0224724044363&quot;: &quot;537091973&quot;,
+    &quot;Application.entry.executor&quot;: &quot;Run&quot;,
+    &quot;MODULE_HAP_TIME&quot;: &quot;{\&quot;2NP0224724044363entry\&quot;:\&quot;2024-11-04T07:28:50.442066900Z\&quot;,\&quot;127.0.0.1:5559entry\&quot;:\&quot;2024-10-09T16:55:19.833504Z\&quot;,\&quot;127.0.0.1:5555entry\&quot;:\&quot;2024-11-06T07:58:07.046800200Z\&quot;}&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ace.nodejs.version&quot;: &quot;18.20.1&quot;,
+    &quot;auto_debug_bundleName&quot;: &quot;00000029A9389617488CB94F27EEF15657D0DF815A42070FFAE92C923F69AB3DEAEDCFA7F0836DDECEA27E2626C4ED6FADA29A8EE9A1148375&quot;,
+    &quot;auto_debug_cert_list&quot;: &quot;000000238C1EFC95FB0306AA73A6384AC48FC58D4E365FB8BCB72C598D633C06352C6D0348DEF83B260AD3A7B37CDEE441F78F&quot;,
+    &quot;auto_debug_device_list&quot;: &quot;000002F3B0A29D29D49E71B62A0992ACF4A6BDDDDACBDFD44CACE4EC97180111F030A8A4B80D0C54E11CB14CDC3E20492653312A17614BADDB92E90983246CF7BA35BF8606335F68A3FBBABC60390CA92E2FFF69BF32546EEC7027FBC2D66CBCA547797C6FD71A658CF6B38C70F6E028950AC1F7287B169BE620020AD6D4A7798C99BF07291120ACA6DFF6515ADEFDA8280EAC8A6AA4737ECBE7DAF2F5CDE4ED261D91227334833B76F1E5BFB48C02F9C83CD792D0DB6A50BE0240C0E9CF11F2962CC4F4B649EC8AE2A8B199801EA38A57BE6B2E28AF1C14E7242564FFE3F2F4F3C296D00F3156DF696950F206FCB84120C5C14471A0F25CFC37781814829F1E68CC071D5EE4896243D3085BE31489AF5E230F2C64A03A528449967FF30E4D2C2656FB7808882642DDA7397A17ABF4B6987A917084DB40E94D3DA271083E41E581D4924A47B14567A2C3E5BA700D0E92C21E2C9E81A3F0C77A6D6BE22A4F9B8735DD20B3119A23EA094B5B6520EFD1E6F6787A090455A4D1ACB8D076DA62DEEC41429F80F00D616743787783868282987AB6B174AFE0F6DC755FACE7C316AD21B25F824A5F5D6B884C23F4AEFE23719C23581F3C42D5994AEE7F2F6295ECC9DBBBACCB038C0AA90B0A3489A6A6FB5CBA5A2FA3F2BCD1B836549183C636011CF78F5190377D4DF4DD9F1512BFF43284F14D450BE584E7D2300B7D3C28CD453ACD9715A732875729D9CA844707FCA4EFCDB08AB079ACD7F5AEFE53374AB88A267D39CB48192DF0229CE4505EF79F56741C051155CC6D0F13E4E1D73E01B922E13DD8B0115AD8C44F6252EA578B6747FD36CAC2054D3961CC2E98FC0A74D3BC370938B2ACB99FF995AFC09E8CC250877F8E566427A6B8D719719A5B564F11F06C2139C5331F705CDFE14ED91D174FEBC5F242122E6998464EDF5215BFAF2622461366FE70477C2110BF063C8141CEC257A6CB03562706061FEC213F592E1EFDBB5C633F8F9FBF15B13EF91319B62B677BF8D8BB0B86C797C5C69864C8FC6C8149E1575E37C936A4B43C83E1211272C50B00873F84813F253DE6673082CFA4F73D1D748BE4&quot;,
+    &quot;auto_debug_package_name&quot;: &quot;0000002975C4E8B8B18C6E1600C843616DBF577A9ED8D1B7A94817371BE00EF4CE31619C62626586B396EE59A3349D1B1B55BD87A0402A35A3&quot;,
+    &quot;auto_debug_team_id&quot;: &quot;00000022FEA5C1756B754DDEE02E33A144EB3747659CAAE2C6F6CAE1E4C519A21240F116D5DFB588F098082DE80172EF8051&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/liuhaobin/Desktop/code/n-video-app/harmony_h5/entry/src/main/resources/rawfile/dist/assets&quot;,
+    &quot;projectSizeLastTraceTimestamp-b591715621da6e45fd800e40d38162e22a1e42fa40964b54bbb88f5ef638&quot;: &quot;1730704525878&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.huawei.deveco.sdkmanager.ohos.idea.ui.OhSdkConfigProvider&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;reqPermissions&quot;: [
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuhaobin\Desktop\code\n-video-app\harmony_h5\entry\src\main\resources\rawfile\dist\assets" />
+      <recent name="C:\Users\liuhaobin\Desktop\code\n-video-app\harmony_h5\entry\src\main\resources\rawfile\dist" />
+      <recent name="C:\Users\liuhaobin\Desktop\code\MyApplication\entry\src\main\resources\rawfile\dist" />
+      <recent name="C:\Users\liuhaobin\Desktop\code\MyApplication\entry\src\main\resources\rawfile\vue3" />
+      <recent name="C:\Users\liuhaobin\Desktop\code\MyApplication\entry\src\main\resources\rawfile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.entry">
+    <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
+      <MODULE_NAME />
+      <REINSTALL_APPLICATION>true</REINSTALL_APPLICATION>
+      <ENVIRONMENT_VARIABLES>[]</ENVIRONMENT_VARIABLES>
+      <DEBUG_LINE_ENABLE_DATA>false</DEBUG_LINE_ENABLE_DATA>
+      <AUTO_DEPENDENCIES_DATA>true</AUTO_DEPENDENCIES_DATA>
+      <INSTALL_FLAGS_CONFIG_KEY />
+      <LAUNCH_FLAGS_CONFIG_KEY />
+      <LAUNCH_ABILITY_CONFIG_TYPE>Default Ability</LAUNCH_ABILITY_CONFIG_TYPE>
+      <LAUNCH_ABILITY_CONFIG_VALUE />
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS>lldb process:gdb-remote packets</LOGGING_TARGET_CHANNELS>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <ETS_SOURCE_PARIS>[]</ETS_SOURCE_PARIS>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <TSAN_ENABLE_DATA>false</TSAN_ENABLE_DATA>
+      <ERROR_INFO_ENHANCE_ENABLE_DATA>false</ERROR_INFO_ENHANCE_ENABLE_DATA>
+      <MULTI_THREAD_CHECK_SELECTED_DATA>false</MULTI_THREAD_CHECK_SELECTED_DATA>
+      <HOT_RELOAD_MODULE_NAME>entry</HOT_RELOAD_MODULE_NAME>
+      <method v="2">
+        <option name="Build.Hvigor.HotReloadBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="harmony_h5 [assembleDevHqf]" type="HvigorRunConfiguration" factoryName="HvigorRunConfiguration" temporary="true">
+      <option name="applicationParameters" value="--mode module -p module=entry@default -p product=default -p requiredDeviceType=phone assembleDevHqf --analyze=normal --parallel --incremental" />
+      <option name="nodeInterpreter" value="$PROJECT_DIR$/../../../../../../app/deveco900/DevEco Studio\tools\node" />
+      <option name="scriptFile" value="$PROJECT_DIR$/../../../../../../app/deveco900/DevEco Studio\tools\hvigor\bin\hvigorw.js" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entry" type="OhosDebugTask" factoryName="OpenHarmony App">
+      <MODULE_NAME>entry</MODULE_NAME>
+      <REINSTALL_APPLICATION>true</REINSTALL_APPLICATION>
+      <ENVIRONMENT_VARIABLES>[]</ENVIRONMENT_VARIABLES>
+      <DEBUG_LINE_ENABLE_DATA>false</DEBUG_LINE_ENABLE_DATA>
+      <AUTO_DEPENDENCIES_DATA>true</AUTO_DEPENDENCIES_DATA>
+      <INSTALL_FLAGS_CONFIG_KEY />
+      <LAUNCH_FLAGS_CONFIG_KEY />
+      <LAUNCH_ABILITY_CONFIG_TYPE>Default Ability</LAUNCH_ABILITY_CONFIG_TYPE>
+      <LAUNCH_ABILITY_CONFIG_VALUE />
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS>lldb process:gdb-remote packets</LOGGING_TARGET_CHANNELS>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <ETS_SOURCE_PARIS>[]</ETS_SOURCE_PARIS>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <TSAN_ENABLE_DATA>false</TSAN_ENABLE_DATA>
+      <ERROR_INFO_ENHANCE_ENABLE_DATA>false</ERROR_INFO_ENHANCE_ENABLE_DATA>
+      <MULTI_THREAD_CHECK_SELECTED_DATA>false</MULTI_THREAD_CHECK_SELECTED_DATA>
+      <method v="2">
+        <option name="Build.Hvigor.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Hvigor.harmony_h5 [assembleDevHqf]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

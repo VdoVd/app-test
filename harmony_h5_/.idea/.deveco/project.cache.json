@@ -1,0 +1,16 @@
+{
+	"BuildOptions":{
+		"BUNDLE_NAME":"com.example.myapplication",
+		"SELECT_BUILD_MODE":"",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"C:\\Users\\liuhaobin\\Desktop\\code\\n-video-app\\harmony_h5\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_PRODUCT":"default"
+	},
+	"CommonInfo":{
+		"crossplatform.projectType":"",
+		"project.ide.version":"5.0.3.900",
+		"current.select.product":"default",
+		"current.select.buildMode":""
+	}
+}
